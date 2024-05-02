@@ -1,0 +1,20 @@
+.navbar1 {
+    display: flex;
+    margin-left: 25%;
+  }
+  
+  .navbar-item {
+    margin-right: 20px; /* Adjust as needed */
+  }
+.profile-img{
+   border: 3px solid rgb(170, 30, 112);
+    border-radius: 50%;
+    width: 60px !important;
+    height: 50px;
+}  
+
+p{
+    font-size: 20;
+    margin-left: 20%;
+    margin-top: -0.1%;
+}

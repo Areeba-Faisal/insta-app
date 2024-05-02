@@ -1,0 +1,40 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px; /* Adjust the width as needed */
+    height: 100%; /* Ensure it covers the full height */
+    margin-left: 75%;
+}
+
+.profile{
+    /* width: 30px !important; */
+    border-radius: 50px;
+    margin-right: 1%;
+  
+}
+
+.name {
+    /* margin-top: -1%; */
+    margin-left: 4%;
+    font-size: 17px;
+}
+
+.name2{
+    margin-top: -12%;
+    margin-left: 3.7%;
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.switch{
+    margin-top: -3.7%;
+    margin-left: 19%;
+    color: blue;
+}
+
+.you{
+    font-size: 17px;
+    font-weight: 300;
+    margin-left: -10px;
+}
